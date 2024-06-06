@@ -1,6 +1,3 @@
-# SODV3203_CarRentalApp
-Final Project for Mobile Application Development (SODV3203)
-
 # Instructions
 To run the program locally:
 - clone the repository
